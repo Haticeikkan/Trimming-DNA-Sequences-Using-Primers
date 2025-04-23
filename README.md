@@ -1,1 +1,1 @@
-# Haticeikkan-Trimming-DNA-Sequences-Using-Primers
+# Trimming-DNA-Sequences-Using-Primers
